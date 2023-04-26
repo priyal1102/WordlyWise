@@ -1,0 +1,39 @@
+body {color: snow;
+}
+
+.btn {
+  background: #c834d9;
+  background-image: -webkit-linear-gradient(top, #c834d9, #c559ff);
+  background-image: -moz-linear-gradient(top, #c834d9, #c559ff);
+  background-image: -ms-linear-gradient(top, #c834d9, #c559ff);
+  background-image: -o-linear-gradient(top, #c834d9, #c559ff);
+  background-image: linear-gradient(to bottom, #c834d9, #c559ff);
+  -webkit-border-radius: 28px;
+  -moz-border-radius: 28px;
+  border-radius: 28px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #d715ed;
+  background-image: -webkit-linear-gradient(top, #d715ed, #e65caf);
+  background-image: -moz-linear-gradient(top, #d715ed, #e65caf);
+  background-image: -ms-linear-gradient(top, #d715ed, #e65caf);
+  background-image: -o-linear-gradient(top, #d715ed, #e65caf);
+  background-image: linear-gradient(to bottom, #d715ed, #e65caf);
+  text-decoration: none;
+}
+
+div {
+  color: snow;
+   margin: 10px 0;
+    padding: 20px;
+    background-color:darkorchid;
+}
+#active{
+  background-color:darkorchid;
+}
