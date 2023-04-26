@@ -1,4 +1,4 @@
-# WorldlyWise
+# WordlyWise
 
 ### This project uses EasyOCR to recognizes the images uploaded on the website developed using flask and hosted usin pythonanywhere
 
