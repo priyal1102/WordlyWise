@@ -1,6 +1,4 @@
 import easyocr
-import kraken
-
 class Ocr:
     def __init__(self, lang):
         self.text = ""
