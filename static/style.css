@@ -6,7 +6,20 @@ div {
      margin: 10px 0;
     padding: 20px;
     background-color: darkorchid;
+    text-align:center;
 }
 #active {
   background-color:darkorchid;
 }
+.head {
+font-family: 'Tangerine', cursive;
+text-align:center;
+font-size: 7rem;
+
+}
+ul {
+
+text-align:left;
+list-style-type: none;
+}
+
